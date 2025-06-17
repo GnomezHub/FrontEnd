@@ -1,0 +1,44 @@
+ .git-guide {
+      background: #d4e8fc;
+      border-radius: 12px;
+      padding: 2em;
+      max-width: 600px;
+      margin: 2em auto;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.07);
+      font-family: 'Segoe UI', Arial, sans-serif;
+    }
+    .git-guide h2 {
+      color: #24292f;
+      border-bottom: 2px solid #e1e4e8;
+      padding-bottom: 0.3em;
+      margin-bottom: 1em;
+      font-size: 1.6em;
+    }
+    .git-guide ol, .git-guide ul {
+      margin-left: 1.2em;
+    }
+    .git-guide li {
+      margin-bottom: 1em;
+    }
+    .git-guide pre {
+      background: #23272e;
+      color: #e6e6e6;
+      padding: 0.5em 1em;
+      border-radius: 6px;
+      font-size: 1em;
+      overflow-x: auto;
+      margin-top: 0.5em;
+      margin-bottom: 0;
+    }
+    .git-guide code {
+      background: #eaecef;
+      color: #24292f;
+      padding: 0.1em 0.4em;
+      border-radius: 4px;
+      font-size: 0.98em;
+    }
+    .git-guide h3 {
+      margin-top: 2em;
+      color: #0366d6;
+      font-size: 1.2em;
+    }s
